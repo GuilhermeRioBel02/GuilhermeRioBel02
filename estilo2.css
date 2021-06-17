@@ -1,0 +1,12 @@
+.imagem2t1 {
+    max-width: 454px;
+    max-height: 550px;
+}
+
+.imagem2t1, p1 { 
+    display: inline-block;
+}
+
+.imagem2t2, p2 {
+    display: inline-block;
+}

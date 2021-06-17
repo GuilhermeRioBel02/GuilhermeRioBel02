@@ -1,0 +1,17 @@
+.imagem1 { 
+    max-width: 454px;
+    max-height: 550px;
+}
+
+.imagem1, p1 { 
+    display: inline-block;
+}
+
+.imagem2 {
+    max-width: 454px;
+    max-height: 550px;
+}
+
+.imagem2, p2 {
+    display: inline-block;
+}

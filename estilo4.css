@@ -1,0 +1,24 @@
+.imagem4t1 { 
+    max-width: 454px;
+    max-height: 550px;
+}
+
+.imagem4t1, p1 {
+    display: inline-block;
+}
+
+.imagembh1, p2 {
+    display: inline-block;
+}
+
+.imagembh2, p3 {
+    display: inline-block;
+}
+
+.imagembh4, p5 {
+    display: inline-block;
+}
+
+.imgander, p4 {
+    display: inline-block;
+}
